@@ -126,6 +126,11 @@ Formato:
 
 ------------------------------------------------------------------------
 
+## Fluxograma
+
+<img width="832" height="1248" alt="fluxogramaa" src="https://github.com/user-attachments/assets/ee274fa2-309f-4f8d-92ba-bc54348de35e" />
+
+
 ##  Como executar
 
 ### 1. Instale as dependências:
@@ -141,6 +146,7 @@ python scraping.py
 ```
 
 ------------------------------------------------------------------------
+<img width="832" height="1248" alt="fluxogramaa" src="https://github.com/user-attachments/assets/8471b1b9-b2b2-4a15-acbb-f9c3208aac2a" />
 
 ##  Observações Importantes
 
