@@ -128,8 +128,11 @@ Formato:
 
 ## Fluxograma
 
-<img width="832" height="1248" alt="fluxogramaa" src="https://github.com/user-attachments/assets/ee274fa2-309f-4f8d-92ba-bc54348de35e" />
+<img width="1024" height="1536" alt="fluxograma" src="https://github.com/user-attachments/assets/90ea9a45-934f-4a46-8607-e1762f0d7f72" />
 
+
+
+------------------------------------------------------------------------
 
 ##  Como executar
 
@@ -146,7 +149,7 @@ python scraping.py
 ```
 
 ------------------------------------------------------------------------
-<img width="832" height="1248" alt="fluxogramaa" src="https://github.com/user-attachments/assets/8471b1b9-b2b2-4a15-acbb-f9c3208aac2a" />
+
 
 ##  Observações Importantes
 
